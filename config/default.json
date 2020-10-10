@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb://Jonathanmedhed:Pass1234!@cluster0-shard-00-00.ctpjg.mongodb.net:27017,cluster0-shard-00-01.ctpjg.mongodb.net:27017,cluster0-shard-00-02.ctpjg.mongodb.net:27017/Cluster0?ssl=true&replicaSet=atlas-2ttbjf-shard-0&authSource=admin&retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken"
+}
